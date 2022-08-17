@@ -2,7 +2,7 @@ exports.config = {
 
   // Capabilities to be passed to the webdriver instance.
   capabilities: {
-    browserName: 'chromium-browser',
+    browserName: 'google-chrome-stable',
 	  
     chromeOptions: {
        args: [ "--headless", "--disable-gpu", "--window-size=800,600" ]
