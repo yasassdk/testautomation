@@ -1,5 +1,4 @@
-exports.config = {
-  directConnect: true,
+exports.config = { 
 
   // Capabilities to be passed to the webdriver instance.
   capabilities: {
